@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "active": true,
+    "message": "Triple XP activado. Aprovecha!",
+    "type": "bonus",
+    "expires": "2026-05-09T22:00:00Z"
+  }
+]
